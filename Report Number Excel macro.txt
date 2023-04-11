@@ -1,0 +1,8 @@
+Private Sub Workbook_Open()
+
+Dim reportNumber As Long
+
+reportNumber = Range("A1").Value
+Range("A1").Value = reportNumber + 1
+
+End Sub
