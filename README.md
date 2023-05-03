@@ -1,4 +1,4 @@
-# 💸Useful auto-report# macro for Excel 
+# 💸Useful auto-report# macro for Excel :money:
 Simple report # macro for Excel 
 
 ## how to add to workbook
